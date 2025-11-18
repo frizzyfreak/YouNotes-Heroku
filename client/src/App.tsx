@@ -51,9 +51,9 @@ export default function App() {
 
   return (
     <div className="max-w-6xl mx-auto p-4 space-y-4">
-      <header className="flex items-center justify-between">
-        <h1 className="text-2xl font-bold">Agentic Study Buddy</h1>
-        <div className="text-sm text-slate-600">Agentic study assistant powered by Gemini—turn any YouTube link or PDF into study notes and a 30-question quiz in seconds</div>
+      <header className="flex flex-col gap-1 md:flex-row md:items-center md:justify-between">
+        <h1 className="text-2xl font-bold">YouNotes</h1>
+        <div className="text-sm text-slate-600 max-w-xl">Turn any YouTube link or PDF into structured notes and a 30‑question quiz in seconds. Powered by Gemini.</div>
       </header>
 
       <div className="grid md:grid-cols-2 gap-4">
