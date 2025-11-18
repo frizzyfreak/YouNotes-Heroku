@@ -1,6 +1,6 @@
-# Agentic Study Buddy (YouTube & PDF)
+# YouNotes aka Agentic StudyBuddy (YouTube & PDF)
 
-Live app: https://ai-agentic-study-buddy-d8ec6ec5b559.herokuapp.com/
+Live app: https://bit.ly/YouNotes
 
 ## Demo
 
@@ -97,5 +97,5 @@ heroku open -a "$APP"
 
 
 ## License
-MIT © 2025 Simon Yam
+MIT © 2025 Hemant Dubey
 
