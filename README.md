@@ -1,4 +1,4 @@
-# Agentic Study Buddy (YouTube & PDF)
+# YouNotes aka Agentic StudyBuddy (YouTube & PDF)
 
 Live app: https://bit.ly/YouNotes
 
